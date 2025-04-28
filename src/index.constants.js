@@ -1,0 +1,1 @@
+export const MESSAGE_LIST=["Learn Fontend Frameworks","Build Applications","Get a job & Earn more"];
